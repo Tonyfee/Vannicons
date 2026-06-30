@@ -1,0 +1,10 @@
+{
+	"name": "可莉图标",
+	"description": "可莉的图标订阅",
+	"icons":[
+		{
+			"name": "Loon",
+			"url": "https://raw.githubusercontent.com/test.png"
+		}
+	]
+}
